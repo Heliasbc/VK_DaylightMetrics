@@ -2,7 +2,7 @@
 
 This repository is meant for Grasshopper scripts used by Tegnestuen Vandkunsten to simulate daylighting for buildings. To use the script properly you are expected to have a basic understanding of Rhino and/or Grasshopper. 
 
-Furthermore, yoy need a working (and validated) version of Rhino 6 or Rhino 7. Also, the scrips uses the plug-in Ladybug Tools 1.1.0 for Grasshopper. To use Ladybug tools correctly the program Radiance needs to be downloaded and installed, see how to Ladybug Tools and Radiance in https://github.com/ladybug-tools/lbt-grasshopper/wiki. 
+Furthermore, you need a working (and validated) version of Rhino 6 or Rhino 7. Also, the scrips uses the plug-in Ladybug Tools 1.1.0 ('VER 0.0.06\nJUL_07_2020') for Grasshopper. To use Ladybug tools correctly the program Radiance needs to be downloaded and installed, see how to Ladybug Tools and Radiance in https://github.com/ladybug-tools/lbt-grasshopper/wiki. 
 
 Several other plug-ins are also used in the script. They can be installed by  downloading and installing the plug-ins  at https://www.food4rhino.com/ or follow the links below
 
